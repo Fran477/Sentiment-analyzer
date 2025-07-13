@@ -1,0 +1,12 @@
+2025-07-13 14:59:23,294 - INFO - Lanzando la aplicación de análisis de sentimientos.
+2025-07-13 14:59:30,630 - INFO - Archivo seleccionado: C:/Users/gonza/Downloads/reviews_ejemplo.csv
+2025-07-13 14:59:31,182 - INFO - Resultados limpiados.
+2025-07-13 14:59:31,184 - INFO - Analizado texto 1/7: 'Me encantó este producto...' - Sentimiento: Positivo
+2025-07-13 14:59:31,185 - INFO - Analizado texto 2/7: 'No me gustó...' - Sentimiento: Negativo
+2025-07-13 14:59:31,185 - INFO - Analizado texto 3/7: 'Es aceptable...' - Sentimiento: Neutral
+2025-07-13 14:59:31,186 - INFO - Analizado texto 4/7: '¡Excelente atención y calidad!...' - Sentimiento: Positivo
+2025-07-13 14:59:31,187 - INFO - Analizado texto 5/7: 'No lo volvería a comprar jamás...' - Sentimiento: Negativo
+2025-07-13 14:59:31,189 - INFO - Analizado texto 6/7: 'Muy feo el producto...' - Sentimiento: Positivo
+2025-07-13 14:59:31,190 - INFO - Analizado texto 7/7: '10 puntos...' - Sentimiento: Neutral
+2025-07-13 14:59:31,190 - INFO - Análisis completado exitosamente.
+2025-07-13 14:59:35,628 - INFO - Archivo PDF exportado: resultados/resultados.pdf
